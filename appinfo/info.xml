@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<info>
+    <id>trialapp</id>
+    <name>Trial App</name>
+    <description>ownCloud app to get the image size on upload of an image</description>
+    <licence>AGPL</licence>
+    <author>Jalpreet Singh Nanda</author>
+    <version>0.0.1</version>
+    <namespace>TrialApp</namespace>
+    <category>tool</category>
+    <dependencies>
+        <owncloud min-version="8.1" />
+    </dependencies>
+</info>
